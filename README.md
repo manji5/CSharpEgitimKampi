@@ -11,3 +11,11 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 3.  [İlkel Veri Tipleri (Metin ve Mantıksal)](./ders-notlari/1.3-degiskenler-metin.md)
 4.  [Değişken Dönüşümleri (Type Casting)](./ders-notlari/1.4-degisken-donusumleri.md)
 5.  [Kullanıcıdan Veri Alma (Console.ReadLine)](./ders-notlari/1.5-kullanicidan-veri-alma.md)
+
+---
+
+## 2. Operatörler
+
+1.  [Aritmetik Operatörler](./ders-notlari/2.1-aritmetik-operatorler.md)
+2.  [Karşılaştırma ve Mantıksal Operatörler](./ders-notlari/2.1-karsilastirma-mantiksal-operatorler.md)
+3.  [Atama ve Bileşik Atama Operatörleri](./ders-notlari/2.1-atama-bilesik-atama-operatorleri.md)
