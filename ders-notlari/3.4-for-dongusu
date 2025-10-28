@@ -1,0 +1,73 @@
+# **Ders 12 Notları: for Döngüsü**
+
+Bu derste, kod tekrarını önleyen ve bir işlemi belirli sayıda yapmamızı sağlayan `for` döngüsünü öğrendik.
+
+### **1. Neden Döngü Kullanırız?**
+
+Programlamada "Kendini Tekrar Etme" (Don't Repeat Yourself - DRY) ilkesi esastır. Ekrana 1000 kez "Merhaba" yazdırmak için 1000 satır kod yazmak yerine, 3 satırlık bir döngü kullanırız.
+
+### **2. `for` Döngüsünün Yapısı**
+
+`for` döngüsü 3 bölümden oluşur ve genellikle bir işi **kaç kere yapacağımızı bildiğimizde** kullanılır.
+
+**Sözdizimi**
+
+```csharp
+for (başlatma; koşul; artırma)
+{
+    // Koşul 'true' oldukça bu blok çalışır.
+}
+```
+
+- **1. Başlatma (örn: `int i = 0;`)**
+    - Sadece döngü başlarken **1 kez** çalışır. Sayacımızı burada tanımlarız.
+- **2. Koşul (örn: `i < 10;`)**
+    - Her turun **başında** kontrol edilir. "Devam edeyim mi?" diye sorar.
+    - Cevap `true` ise döngü çalışır, `false` ise döngü biter.
+- **3. Artırma (örn: `i++`)**
+    - Her turun **sonunda** çalışır. Sayacı günceller.
+
+**Örnek: Ekrana 1'den 5'e kadar sayıları yazdırma:**
+
+```csharp
+// i=1'den başla; i, 5'e eşit veya küçük olduğu sürece devam et; her turda i'yi 1 artır.
+for (int i = 1; i <= 5; i++)
+{
+    Console.WriteLine(i);
+}
+// Çıktı:
+// 1
+// 2
+// 3
+// 4
+// 5
+```
+
+### **3. İç İçe `for` Döngüleri (Nested Loops)**
+
+Bir döngünün içine başka bir döngü koymaktır.
+**Kural:** Dıştaki döngünün **her bir adımı için**, içteki döngü baştan sona tamamlanır.
+
+**Örnek: Basit Çarpım Tablosu (1'ler ve 2'ler için)**
+
+```csharp
+for (int i = 1; i <= 2; i++) // Dıştaki döngü (i)
+{
+    Console.WriteLine($"--- {i}'ler ---");
+    for (int j = 1; j <= 3; j++) // İçteki döngü (j)
+    {
+        // Dışarıdan i=1 geldiğinde, j döngüsü 1, 2, 3 için çalışır.
+        // Dışarıdan i=2 geldiğinde, j döngüsü 1, 2, 3 için tekrar çalışır.
+        Console.WriteLine($"{i} x {j} = {i * j}");
+    }
+}
+// Çıktı:
+// --- 1'ler ---
+// 1 x 1 = 1
+// 1 x 2 = 2
+// 1 x 3 = 3
+// --- 2'ler ---
+// 2 x 1 = 2
+// 2 x 2 = 4
+// 2 x 3 = 6
+```
