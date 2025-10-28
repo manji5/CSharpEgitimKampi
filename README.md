@@ -19,3 +19,14 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 1.  [Aritmetik Operatörler](./ders-notlari/2.1-aritmetik-operatorler.md)
 2.  [Karşılaştırma ve Mantıksal Operatörler](./ders-notlari/2.1-karsilastirma-mantiksal-operatorler.md)
 3.  [Atama ve Bileşik Atama Operatörleri](./ders-notlari/2.1-atama-bilesik-atama-operatorleri.md)
+
+---
+
+## 3. Koşul ve Döngüler
+
+1. [if-else İfadeleri](./ders-notlari/3.1-if-else-ifadeleri.md)
+2. [switch-case Yapısı](./ders-notlari/3.2-switch-case-yapisi.md)
+3. [Ternary Operatörü](./ders-notlari/3.3-ternary-operatoru.md)
+4. [for Döngüsü](./ders-notlari/3.4-for-dongusu.md)
+5. [while ve do-while Döngüleri](./ders-notlari/3.5-while-do-while-dongusu.md)
+6. [break ve continue İfadeleri](./ders-notlari/3.6-break-continue-ifadesi.md)
