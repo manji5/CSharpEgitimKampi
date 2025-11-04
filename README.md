@@ -30,3 +30,11 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 4. [for Döngüsü](./ders-notlari/3.4-for-dongusu.md)
 5. [while ve do-while Döngüleri](./ders-notlari/3.5-while-do-while-dongusu.md)
 6. [break ve continue İfadeleri](./ders-notlari/3.6-break-continue-ifadesi.md)
+
+## 4. Dizi ve Koleksiyonlar
+
+1. [Dizilere Giriş](./ders-notlari/4,1-dizilere-giris.md)
+2. [Çok Boyutlu Diziler](./ders-notlari/4.2-cok-boyutlu-diziler.md)
+3. [foreach Döngüsü](./ders-notlari/4.3-foreach-dongusu.md)
+4. [ArrayList (Dinamik Koleksiyon)](./ders-notlari/4.4-arraylist.md)
+5. [List<T> (Jenerik Koleksiyon)](./ders-notlari/4.5-list.md)
