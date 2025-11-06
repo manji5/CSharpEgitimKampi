@@ -26,6 +26,8 @@ namespace Ders2
             decimal urunFiyati = 199.99m;
             decimal bakiye = 1500.50m;
             Console.WriteLine($"Ürün fiyatı: {urunFiyati}\nBakiyeniz: {bakiye}");
+
+            List<int> not = new List<int>();
         }
     }
 }
