@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNotesApp", "ConsoleN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders20", "Ders20\Ders20.csproj", "{85D7ABD2-CFF8-4C9D-885F-F881009B4E0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders21", "Ders21\Ders21.csproj", "{AE6308DE-0504-4553-8127-F3EB885A1D97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{85D7ABD2-CFF8-4C9D-885F-F881009B4E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85D7ABD2-CFF8-4C9D-885F-F881009B4E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85D7ABD2-CFF8-4C9D-885F-F881009B4E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6308DE-0504-4553-8127-F3EB885A1D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6308DE-0504-4553-8127-F3EB885A1D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6308DE-0504-4553-8127-F3EB885A1D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6308DE-0504-4553-8127-F3EB885A1D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
