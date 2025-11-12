@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders22", "Ders22\Ders22.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders23", "Ders23\Ders23.csproj", "{5BF70DC2-7562-4BD1-AC1F-7B6724ADD312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLibraryFunctions", "SimpleLibraryFunctions\SimpleLibraryFunctions.csproj", "{EEF478B0-1500-486A-AA9D-50FE7A6F7818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{5BF70DC2-7562-4BD1-AC1F-7B6724ADD312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF70DC2-7562-4BD1-AC1F-7B6724ADD312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF70DC2-7562-4BD1-AC1F-7B6724ADD312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF478B0-1500-486A-AA9D-50FE7A6F7818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF478B0-1500-486A-AA9D-50FE7A6F7818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF478B0-1500-486A-AA9D-50FE7A6F7818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF478B0-1500-486A-AA9D-50FE7A6F7818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
