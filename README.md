@@ -51,3 +51,10 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 4. [Metot Overloading (Aşırı Yükleme)](./ders-notlari/5.4-metot-overloading.md)
 
 ---
+
+## 6. Sınıf ve Nesneler
+
+1. [Sınıflara Giriş (Blueprint Kavramı)](./ders-notlari/6.1-siniflara-giris.md)
+2. [Nesne Oluşturma ve Constructor Metotları](./ders-notlari/6.2-nesne-constructor.md)
+3. [Metotlar ve Özellikler](./ders-notlari/6.3-metotlar-ozellikler.md)
+4. [static Üyeler ve static Sınıflar](./ders-notlari/6.4-static.md)
