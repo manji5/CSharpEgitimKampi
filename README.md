@@ -70,3 +70,18 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 5. [Interface'ler (Arayüzler)](./ders-notlari/7.5-interface.md)
 
 ---
+
+## 8. Hata Yönetimi
+
+1. [Exception Handling (Hata Yakalama) Giriş](./ders-notlari/8.1-exception-handling.md)
+2. [Birden Fazla catch ve finally](./ders-notlari/8.2-catch-finally.md)
+3. [throw ile Hata Fırlatma](./ders-notlari/8.3-throw.md)
+
+---
+
+## 9. Dosya İşlemleri
+
+1. [File ve Directory Sınıfları](./ders-notlari/9.1-file-directory.md)
+2. [Metin Dosyası Okuma/Yazma](./ders-notlari/9.2-streamwriter-streamreader.md)
+
+---
