@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 18
-VisualStudioVersion = 18.0.11217.181 d18.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9306A927-8A31-4303-9E6C-CBE40E9A78D4}"
 EndProject
@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders23", "Ders23\Ders23.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLibraryFunctions", "SimpleLibraryFunctions\SimpleLibraryFunctions.csproj", "{EEF478B0-1500-486A-AA9D-50FE7A6F7818}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders1-27", "Ders1-27", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders1-32", "Ders1-32", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders24_27", "Ders24-27\Ders24_27.csproj", "{581561EF-26FB-4291-9B8D-2F3C91254B39}"
 EndProject
@@ -66,6 +66,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders28_32", "Ders28_32\Ders28_32.csproj", "{2DC838A6-436B-49C3-BC35-E769427BFEEB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom", "AnimalKingdom\AnimalKingdom.csproj", "{0E06A123-3B6D-4B47-B72F-36E3F130FAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders33_35", "Ders33_35\Ders33_35.csproj", "{17A0A671-AF4C-4DF0-9751-69871F101675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -197,6 +199,10 @@ Global
 		{0E06A123-3B6D-4B47-B72F-36E3F130FAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E06A123-3B6D-4B47-B72F-36E3F130FAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E06A123-3B6D-4B47-B72F-36E3F130FAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A0A671-AF4C-4DF0-9751-69871F101675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A0A671-AF4C-4DF0-9751-69871F101675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A0A671-AF4C-4DF0-9751-69871F101675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A0A671-AF4C-4DF0-9751-69871F101675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
