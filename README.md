@@ -58,3 +58,15 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 2. [Nesne Oluşturma ve Constructor Metotları](./ders-notlari/6.2-nesne-constructor.md)
 3. [Metotlar ve Özellikler](./ders-notlari/6.3-metotlar-ozellikler.md)
 4. [static Üyeler ve static Sınıflar](./ders-notlari/6.4-static.md)
+
+---
+
+## 7. OOP Temelleri (Nesne Yönelimli Programlama)
+
+1. [Kapsülleme (Encapsulation)](./ders-notlari/7.1-kapsulleme.md)
+2. [Miras Alma (Inheritance)](./ders-notlari/7.2-miras-alma.md)
+3. [Çok Biçimlilik (Polymorphism)](./ders-notlari/7.3-cok-bicimlilik.md)
+4. [Abstract Sınıflar ve Metotlar](./ders-notlari/7.4-abstract.md)
+5. [Interface'ler (Arayüzler)](./ders-notlari/7.5-interface.md)
+
+---
