@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders23", "Ders23\Ders23.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLibraryFunctions", "SimpleLibraryFunctions\SimpleLibraryFunctions.csproj", "{EEF478B0-1500-486A-AA9D-50FE7A6F7818}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders1-35", "Ders1-35", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ders1-37", "Ders1-37", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders24_27", "Ders24-27\Ders24_27.csproj", "{581561EF-26FB-4291-9B8D-2F3C91254B39}"
 EndProject
@@ -72,6 +72,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders36_37", "Ders36_37\Ders36_37.csproj", "{03EE4115-B0DF-4D7F-82B8-335197EB11AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryApp", "DiaryApp\DiaryApp.csproj", "{221B91E9-698D-4638-A075-A1AA522A9C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders38_39", "Ders38_39\Ders38_39.csproj", "{06CDC40C-960E-4EA1-A792-599D21887451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectHub", "ProjectHub\ProjectHub.csproj", "{B91FB8DD-5D08-47F7-892A-54363465C3E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +219,14 @@ Global
 		{221B91E9-698D-4638-A075-A1AA522A9C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{221B91E9-698D-4638-A075-A1AA522A9C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{221B91E9-698D-4638-A075-A1AA522A9C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CDC40C-960E-4EA1-A792-599D21887451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CDC40C-960E-4EA1-A792-599D21887451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CDC40C-960E-4EA1-A792-599D21887451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CDC40C-960E-4EA1-A792-599D21887451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91FB8DD-5D08-47F7-892A-54363465C3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91FB8DD-5D08-47F7-892A-54363465C3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91FB8DD-5D08-47F7-892A-54363465C3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91FB8DD-5D08-47F7-892A-54363465C3E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
