@@ -88,7 +88,7 @@ Bu repoda, YouTube kanalımdaki C# kursunun tüm ders notlarını ve özetlerini
 
 ## 10. Konsol Uygulamaları (Gelişmiş)
 
-1.[Renkler ve İmleç](./ders-notlari/10.1-color-cursor.md) 
-2.[Basit Menü Navigasyonu](./ders-notlari/10.2-navigation.md)
+1. [Renkler ve İmleç](./ders-notlari/10.1-color-cursor.md)
+2. [Basit Menü Navigasyonu](./ders-notlari/10.2-navigation.md)
 
 ---
